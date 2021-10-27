@@ -1,15 +1,11 @@
 ## Hi, my name is Elina :smile_cat:
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=esgenova20&label=Profile%20views&color=0e75b6&style=flat" alt="esgenova20" /> </p>
-<hr>
-
-<img align="right" height="300" alt="" src="https://i.pinimg.com/originals/b7/93/42/b7934212a0d5eb188d5243b0e124725c.gif" />
+<img align="right" height="250" alt="" src="https://media4.giphy.com/media/2RiU1RUjyh4C4/giphy.gif?cid=ecf05e47j6h618ufsxi85fhvbnwc8lqwdvtvqpf1d0ew8r7m&rid=giphy.gif&ct=g" />
 
 ### Talking about Personal Stuffs:
 
 - :tulip: Student at <a href = https://github.com/codingburgas>@codingburgas</a>
 - :ear_of_rice:  I’m currently learning HTML5 & CSS3 and C++
-- :seedling: Fun fact: I love cats :heart_eyes_cat:
 - :sunflower: How to reach me: ESGenova20@codingburgas.bg
 
 ### Languages and Tools:
@@ -19,10 +15,10 @@
 <code><img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" ></code>
 
 
-<h3 align="left">Connect with me:</h3>
+### Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/elina-genova-386413217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="test" height="30" width="40" /></a>
-<a href="https://facebook.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="test" height="30" width="40" /></a>
+<!--<a href="https://www.facebook.com/profile.php?id=100012130452550" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="test" height="30" width="40" /></a>-->
 </p>
 
 ### Badges
