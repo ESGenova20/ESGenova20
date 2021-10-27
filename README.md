@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esgenova20&label=Profile%20views&color=0e75b6&style=flat" alt="esgenova20" /> </p>
 <hr>
 
-<img align="right" height="300" alt="" src="https://3.files.edl.io/dc33/21/02/11/202807-a5752061-e03b-4b81-9927-a51e6904bb97.gif" />
+<img align="right" height="300" alt="" src="https://i.pinimg.com/originals/b7/93/42/b7934212a0d5eb188d5243b0e124725c.gif" />
 
 ### Talking about Personal Stuffs:
 
